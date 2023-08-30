@@ -1,4 +1,4 @@
-# Software Development Foundations - Overview
+# Overview
 This lesson provides an overview of the 12-week software development foundations course.
 
 [slides](https://dpi-we.github.io/sdf-overview)
