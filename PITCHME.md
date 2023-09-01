@@ -56,32 +56,32 @@ _paginate: false
 
 ---
 # Play the whole game
-* The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we become **full-stack developers**.
-* Most courses or books teach you one language or skill, but then you're left wondering how that fits in with the 99 other things you need to know in order to deploy an application.
-* Making a real, functional application was motivating! It gave me a reason to continue learning — to improve it, and to make my next one.
-* It gave me practical context to learn the stuff from CS courses that previously had no meaning for me.
+- The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we become **full-stack developers**.
+- Most courses or books teach you one language or skill, but then you're left wondering how that fits in with the 99 other things you need to know in order to deploy an application.
+- Making a real, functional application was motivating! It gave me a reason to continue learning — to improve it, and to make my next one.
+- It gave me practical context to learn the stuff from CS courses that previously had no meaning for me.
 
 ---
 # Learning how to learn
-* Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
-* These are good, beginner-friendly, motivating choices for an introductory course.
-* Our real goal is to learn how to learn, so that you can then go on to learn whatever interests you.
+- Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
+- These are good, beginner-friendly, motivating choices for an introductory course.
+- Our real goal is to learn how to learn, so that you can then go on to learn whatever interests you.
 
 ---
 
 # Learning how to learn
-* Being a software developer means being a lifelong learner.
-* There are always new languages, techniques, and frameworks to stay up-to-date on.
-* Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
-* We are inventors. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
+- Being a software developer means being a lifelong learner.
+- There are always new languages, techniques, and frameworks to stay up-to-date on.
+- Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
+- We are inventors. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
 
 
 ---
 # Sounds good, but who are you?
-* Hi! I'm Ian
-* Back in 2012 I was living in Shenzhen, China teaching English
-* I wanted to to learn "how to code".
-* Specifically, I wanted to build an iOS app — but I didn't know anyone who knew how or what to learn to get there.
+- Hi! I'm Ian
+- Back in 2012 I was living in Shenzhen, China teaching English
+- I wanted to to learn "how to code".
+- Specifically, I wanted to build an iOS app — but I didn't know anyone who knew how or what to learn to get there.
 
 ---
 
