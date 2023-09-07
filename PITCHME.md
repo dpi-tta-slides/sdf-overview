@@ -56,25 +56,25 @@ _paginate: false
 
 ---
 # Learning how to learn
-* Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
-* These are good, beginner-friendly, motivating choices for an introductory course.
-* Our real goal is to learn how to learn, so that you can then go on to learn whatever interests you.
+- Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
+- These are good, beginner-friendly, motivating choices for an introductory course.
+- Our real goal is to learn how to learn, so that you can then go on to learn whatever interests you.
 
 ---
 
 # Learning how to learn
-* Being a software developer means being a lifelong learner.
-* There are always new languages, techniques, and frameworks to stay up-to-date on.
-* Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
+- Being a software developer means being a lifelong learner.
+- There are always new languages, techniques, and frameworks to stay up-to-date on.
+- Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
 * **We are inventors**. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
 
 
 ---
 # Sounds good, but who are you?
-* Hi! I'm Ian
-* Back in 2012 I was living in Shenzhen, China teaching English
-* I wanted to to learn "how to code".
-* Specifically, I wanted to build an iOS app — but I didn't know anyone who knew how or what to learn to get there.
+- Hi! I'm Ian
+- Back in 2012 I was living in Shenzhen, China teaching English
+- I wanted to to learn "how to code".
+- Specifically, I wanted to build an iOS app — but I didn't know anyone who knew how or what to learn to get there.
 
 ---
 
