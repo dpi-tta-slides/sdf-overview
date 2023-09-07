@@ -30,9 +30,20 @@ _paginate: false
 - Speak up whenever you feel like it, or raise your hand.
 - If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
 - Outside of class, our rule: You're only allowed to get stuck for **15 minutes** before asking a question.
-- I'll be posted up in the class room, Discord, and Ask.
+- I'll be posted up in the classroom, Discord, and Ask.
 - The course is organized according to the the lock-before-key principle 🔐
     - until someone asks the question, I won't provide the info needed to solve an exercise.
+
+---
+
+# Technical Team
+
+- Darryl
+- Dustin
+- Jazmine
+- John
+- Robert
+- Ximena
 
 ---
 # Timeline / Learning Journey
@@ -115,21 +126,10 @@ _paginate: false
 - Founded successful platforms such as https://popping.live and https://receipt-ai.com.
 
 ---
-
-# Technical Team
-
-- Darryl
-- Dustin
-- Jazmine
-- John
-- Robert
-- Ximena
-
----
 # How the course will work
 - Learning how to program from lectures is really hard.
 - So many things to juggle:
-    — watching me
+    - watching me
     - typing along
     - taking notes
     - etc.
