@@ -66,7 +66,7 @@ _paginate: false
 - Being a software developer means being a lifelong learner.
 - There are always new languages, techniques, and frameworks to stay up-to-date on.
 - Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
-* **We are inventors**. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
+- **We are inventors**. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
 
 
 ---
