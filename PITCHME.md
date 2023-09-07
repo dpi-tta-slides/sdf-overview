@@ -29,7 +29,7 @@ _paginate: false
 - We need you to ask questions.
 - Speak up whenever you feel like it, or raise your hand.
 - If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
-- Outside of class, our rule: You're only allowed to get stuck for 15 minutes before asking a question.
+- Outside of class, our rule: You're only allowed to get stuck for **15 minutes** before asking a question.
 - I'll be posted up in the class room, Discord, and Ask.
 - The course is organized according to the the lock-before-key principle 🔐
     - until someone asks the question, I won't provide the info needed to solve an exercise.
@@ -40,7 +40,7 @@ _paginate: false
 - Meet Gary
 - Remote INTRO course (n-weeks)
 - Interview
-- In-person Software Development Foundations (SDF) (12-weeks) <-- We are here!
+- In-person Software Development Foundations (SDF) (12-weeks) <-- **We are here!**
 <!-- TODO: change wording here? -->
 - Pre-Job learning (n-weeks)
     - data science, frontend, backend, cloud etc.
@@ -55,13 +55,6 @@ _paginate: false
 — Paul Graham, "How to Get Startup Ideas"
 
 ---
-# Play the whole game
-* The crucial piece in finally making programming "click" is learning all the skills needed to deploy an application, not just one or two. I.e., we become **full-stack developers**.
-* Most courses or books teach you one language or skill, but then you're left wondering how that fits in with the 99 other things you need to know in order to deploy an application.
-* Making a real, functional application was motivating! It gave me a reason to continue learning — to improve it, and to make my next one.
-* It gave me practical context to learn the stuff from CS courses that previously had no meaning for me.
-
----
 # Learning how to learn
 * Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
 * These are good, beginner-friendly, motivating choices for an introductory course.
@@ -73,7 +66,7 @@ _paginate: false
 * Being a software developer means being a lifelong learner.
 * There are always new languages, techniques, and frameworks to stay up-to-date on.
 * Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
-* We are inventors. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
+* **We are inventors**. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
 
 
 ---
@@ -117,45 +110,60 @@ _paginate: false
 
 ---
 
+- Landed my first software engineering job at Mi-Jack in Homewood, IL
 - My experience as a Software Engineer at Nerdery sharpened my technical expertise
 - Founded successful platforms such as https://popping.live and https://receipt-ai.com.
 
 ---
 
-# Team
+# Technical Team
 
 - Darryl
 - Dustin
 - Jazmine
 - John
 - Robert
+- Ximena
 
 ---
 # How the course will work
 - Learning how to program from lectures is really hard.
-- So many things to juggle — watching me, typing along, taking notes.
+- So many things to juggle:
+    — watching me
+    - typing along
+    - taking notes
+    - etc.
 - Super easy to fall behind if you get stuck on something.
-- Instead, we'll be using a partially "flipped" format. Instead of lectures, you'll have videos that you can pause, speed up, skip back, search, and reference whenever you want.
-- During our class meetings, we'll do activities together to practice and reinforce what you learned from the videos and readings.
-- M/W/F afternoons — "class meetings". All the rest of the time (M/W/F mornings, T/Th) is "lab" (with the exception of other seminars and guest lectures).
-- There will be exceptions to this schedule, but that's the general plan.
 
 ---
 # How the course will work
+- We'll be using a "flipped" format.
+- Instead of lectures, you'll have videos that you can pause, speed up, skip back, search, and reference whenever you want.
+- During our class meetings, we'll do activities together to practice and reinforce what you learned from the videos and readings.
+
+---
+# Schedule
+- M/W/F afternoons — "class meetings".
+- All the rest of the time (M/W/F mornings, T/Th) - "lab"
+    - (with the exception of other seminars and guest lectures).
+- There will be exceptions, but that's the general plan.
+
+---
+# Canvas
 - Canvas is our home base.
 - I recommend always clicking "Modules"
 - Try to complete all required assignments by the due date
 
 ---
 
-# How the course will work
+# Getting started
 - You should start your first modules: **Getting Started** and **Transitioning to Rails**
 - During lab time, the teaching assistants and instructors will be available for questions.
 - Please walk over and ask us lots of questions as you're working through the videos, readings, and projects.
 
 ---
 
-# How the course will work
+# What if I finish?
 - If you finish the required assignments, you should:
   - Try doing assignments again if you're feeling shaky. It should be easier the second time. Take notes on what's still confusing so we can discuss it during class.
   - Try the optional assignments to extend your learning if you're feeling very good about the required assignments.
