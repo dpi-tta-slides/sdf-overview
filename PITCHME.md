@@ -30,15 +30,18 @@ _paginate: false
 - Speak up whenever you feel like it, or raise your hand.
 - If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
 - Outside of class, our rule: You're only allowed to get stuck for **15 minutes** before asking a question.
-- I'll be posted up in the classroom, Discord, and Ask.
+- We'll be available in the classroom, calendly, Discord, and Ask.
+
+---
+# Asking Questions
+
 - The course is organized according to the the lock-before-key principle 🔐
-    - until someone asks the question, I won't provide the info needed to solve an exercise.
+- I won't provide the info needed to solve an exercise until someone asks the question.
 
 ---
 
 # Technical Team
 
-- Darryl
 - Dustin
 - Jazmine
 - John
@@ -52,9 +55,8 @@ _paginate: false
 - Remote INTRO course (n-weeks)
 - Interview
 - In-person Software Development Foundations (SDF) (12-weeks) <-- **We are here!**
-<!-- TODO: change wording here? -->
 - Pre-Job learning (n-weeks)
-    - data science, frontend, backend, cloud etc.
+    - Dig deep into a topic (React, data science, cloud etc.)
 - On the job learning
     - DPI employer partners or land your own!
 
@@ -63,18 +65,18 @@ _paginate: false
 
 "**Knowing how to hack** also means that **when you have ideas, you'll be able to implement them**.... It's a big advantage, when you're considering an idea like putting a college facebook online, if instead of merely thinking 'That’s an interesting idea,' you can think instead '**That’s an interesting idea. I’ll try building an initial version tonight.**"
 
-— Paul Graham, "How to Get Startup Ideas"
+— Paul Graham, "[How to Get Startup Ideas](http://paulgraham.com/startupideas.html)"
 
 ---
 # Learning how to learn
 - Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
 - These are good, beginner-friendly, motivating choices for an introductory course.
-- Our real goal is to learn how to learn, so that you can then go on to learn whatever interests you.
+- Our real goal is to **learn how to learn**, so that you can then go on to learn whatever interests you.
 
 ---
 
 # Learning how to learn
-- Being a software developer means being a lifelong learner.
+- Being a software developer means being a **lifelong learner**.
 - There are always new languages, techniques, and frameworks to stay up-to-date on.
 - Every single project involves learning new things, depending on what real-world problem you're being hired to solve.
 - **We are inventors**. There are no formulas to look up and apply; we have to learn about the problem and then invent solutions.
@@ -110,6 +112,7 @@ _paginate: false
 # Learning all the skills needed to deploy an application
 - Make School
 
+<!-- formerly MakeGamesWithUs -->
 <!-- emphasized launching on the app store and getting real user feedback -->
 
 ---
@@ -121,6 +124,7 @@ _paginate: false
 
 ---
 
+- Moved back to Chicago
 - Landed my first software engineering job at Mi-Jack in Homewood, IL
 - My experience as a Software Engineer at Nerdery sharpened my technical expertise
 - Founded successful platforms such as https://popping.live and https://receipt-ai.com.
@@ -143,10 +147,12 @@ _paginate: false
 
 ---
 # Schedule
-- M/W/F afternoons — "class meetings".
-- All the rest of the time (M/W/F mornings, T/Th) - "lab"
+- "Check-in" - 9
+- "Stand-ups" - 9:15
+- "class meetings" - M/W/F afternoons
+- "lab" - all the remaining time (M/W/F mornings, T/Th, etc.)
     - (with the exception of other seminars and guest lectures).
-- There will be exceptions, but that's the general plan.
+<!-- There will be exceptions, but that's the general plan. -->
 
 ---
 # Canvas
@@ -172,16 +178,8 @@ _paginate: false
 
 ---
 # Course Outline (technical)
-- 6 weeks Assignments with Deadlines
-    - week 1
-        - Getting started, Transitioning to Rails
-    - week 2-3
-        - Introduction to Databases, Association Accessors, Databases Continued 
-    - week 4
-        - CRUD GUI, Generators
-    - Week 5-6
-        - Helper Methods, Industrial, Frontend
-- 6 weeks working on own projects
+- 6 weeks assignments with deadlines
+- 6 weeks building your own projects
 - Showcase
 
 ---
