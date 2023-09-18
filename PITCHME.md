@@ -104,8 +104,6 @@ _paginate: false
 
 "That’s exactly the thing that will turn people away from programming forever,” he said. “It’s like teaching someone chemistry as the first thing if they want to learn how to paint."
 
-
-
 — Raghu Betina, on teaching CS to people who want to learn application development
 
 ---
@@ -149,8 +147,8 @@ _paginate: false
 # Schedule
 - "Check-in" - 9
 - "Stand-ups" - 9:15
-- "class meetings" - M/W/F afternoons
-- "lab" - all the remaining time (M/W/F mornings, T/Th, etc.)
+- "class meetings" - M/W/R at 1
+- "lab" - all the remaining time
     - (with the exception of other seminars and guest lectures).
 <!-- There will be exceptions, but that's the general plan. -->
 
@@ -163,10 +161,10 @@ _paginate: false
 ---
 
 # Getting started
-- You should start your first modules: **Getting Started** and **Transitioning to Rails**
+- You should start your first modules: **Getting Started** and **Week 1: Assignments**
 - During lab time, the teaching assistants and instructors will be available for questions.
 - Please walk over and ask us lots of questions as you're working through the videos, readings, and projects.
-
+               
 ---
 
 # What if I finish?
