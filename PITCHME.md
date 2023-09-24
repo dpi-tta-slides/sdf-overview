@@ -29,7 +29,7 @@ _paginate: false
 - We need you to ask questions.
 - Speak up whenever you feel like it, or raise your hand.
 - If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
-- Outside of class, our rule: You're only allowed to get stuck for **15 minutes** before asking a question.
+- Our rule: You're only allowed to get stuck for **15 minutes** before asking a question.
 - We'll be available in the classroom, calendly, Discord, and Ask.
 
 ---
@@ -141,14 +141,14 @@ _paginate: false
 # How the course will work
 - We'll be using a "flipped" format.
 - Instead of lectures, you'll have videos that you can pause, speed up, skip back, search, and reference whenever you want.
-- During our class meetings, we'll do activities together to practice and reinforce what you learned from the videos and readings.
+- During our meetings, we'll do activities together to practice and reinforce what you learned from the videos and readings.
 
 ---
 # Schedule
 - "Check-in" - 9
 - "Stand-ups" - 9:15
-- "class meetings" - M/W/R at 1
-- "lab" - all the remaining time
+- "Meetings" - M/W/R at 1
+- "Lab" - all the remaining time
     - (with the exception of other seminars and guest lectures).
 <!-- There will be exceptions, but that's the general plan. -->
 
@@ -161,7 +161,7 @@ _paginate: false
 ---
 
 # Getting started
-- You should start your first modules: **Getting Started** and **Week 1: Assignments**
+- You should start your first modules: **Getting Started** and **Sprint 1: Assignments**
 - During lab time, the teaching assistants and instructors will be available for questions.
 - Please walk over and ask us lots of questions as you're working through the videos, readings, and projects.
                
@@ -169,7 +169,7 @@ _paginate: false
 
 # What if I finish?
 - If you finish the required assignments, you should:
-  - Try doing assignments again if you're feeling shaky. It should be easier the second time. Take notes on what's still confusing so we can discuss it during class.
+  - Try doing assignments again if you're feeling shaky. It should be easier the second time. Take notes on what's still confusing so we can discuss it during meetings.
   - Try the optional assignments to extend your learning if you're feeling very good about the required assignments.
   - Try applying the concepts you've learned to your own ideas. (**Best possible way to learn**)
   - Some students have reported watching the videos over again at 2x speed is helpful.
