@@ -42,11 +42,9 @@ _paginate: false
 
 # Technical Team
 
-- Dustin
-- Jazmine
-- John
+- Jorge
 - Robert
-- Ximena
+- Ian
 
 ---
 # Timeline / Learning Journey
@@ -69,7 +67,7 @@ _paginate: false
 
 ---
 # Learning how to learn
-- Our real goal during these 12 weeks is not to learn Ruby, Rails, Bootstrap, or any other particular language or framework.
+- Our real goal during these 12 weeks is not to learn Ruby, Rails, JavaScript, Bootstrap, or any other particular language or framework.
 - These are good, beginner-friendly, motivating choices for an introductory course.
 - Our real goal is to **learn how to learn**, so that you can then go on to learn whatever interests you.
 
