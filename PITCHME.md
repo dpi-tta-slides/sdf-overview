@@ -45,6 +45,10 @@ _paginate: false
 - Jorge
 - Robert
 - Ian
+- Fidel
+- Thierry
+- Alexandra
+- Chandhu
 
 ---
 # Timeline / Learning Journey
