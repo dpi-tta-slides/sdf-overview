@@ -42,13 +42,14 @@ _paginate: false
 
 # Technical Team
 
-- Jorge
-- Robert
-- Ian
-- Fidel
-- Thierry
 - Alexandra
 - Chandhu
+- Fidel
+- Ian
+- Jorge
+- Robert
+- Thierry
+
 
 ---
 # Timeline / Learning Journey
