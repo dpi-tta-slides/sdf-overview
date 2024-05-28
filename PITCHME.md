@@ -43,11 +43,10 @@ _paginate: false
 # Technical Team
 
 - Alexandra
+- Carlos
 - Chandhu
-- Fidel
 - Ian
-- Jorge
-- Robert
+- Nancy/Jorge
 - Thierry
 
 
