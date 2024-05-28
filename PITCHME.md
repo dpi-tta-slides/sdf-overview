@@ -129,7 +129,7 @@ _paginate: false
 - Moved back to Chicago
 - Landed my first software engineering job at Mi-Jack in Homewood, IL
 - My experience as a Software Engineer at Nerdery sharpened my technical expertise
-- Founded successful platforms such as https://popping.live and https://receipt-ai.com.
+- Founded successful platforms such as https://receipt-ai.com.
 
 ---
 # How the course will work
@@ -149,10 +149,11 @@ _paginate: false
 
 ---
 # Schedule
-- "Check-in" - 9
-- "Stand-ups" - 9:15
-- "Meetings" - M/W/R at 1
-- "Lab" - all the remaining time
+- **Check-in**: 9
+- **Stand-ups**: 9:15
+- **Meetings**: M/T/W/R at 1
+- **Data Structure and Algorithms**: Fridays at 2
+- **Lab**: all the remaining time
     - (with the exception of other seminars and guest lectures).
 <!-- There will be exceptions, but that's the general plan. -->
 
@@ -165,7 +166,7 @@ _paginate: false
 ---
 
 # Getting started
-- You should start your first modules: **Getting Started** and **Sprint 1: Assignments**
+- You should start your first modules, eg **Onboarding**
 - During lab time, the teaching assistants and instructors will be available for questions.
 - Please walk over and ask us lots of questions as you're working through the videos, readings, and projects.
                
