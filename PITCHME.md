@@ -150,7 +150,7 @@ _paginate: false
 ---
 # Schedule
 - **Check-in**: 9
-- **Stand-ups**: 9:15
+- **Stand-ups**: 9:15 (with your stand-up group)
 - **Meetings**: M/T/W/R at 1
 - **Data Structure and Algorithms**: Fridays at 2
 - **Lab**: all the remaining time
@@ -161,7 +161,8 @@ _paginate: false
 # Canvas
 - Canvas is our home base.
 - I recommend always clicking "Modules"
-- Try to complete all required assignments by the due date
+- Please complete all required assignments by the due date
+  - if you're unable to complete assignments by due date, please let us know in advance
 
 ---
 
@@ -181,8 +182,8 @@ _paginate: false
 
 ---
 # Course Outline (technical)
-- 6 weeks assignments with deadlines
-- 6 weeks building your own projects
+- 7 weeks assignments with deadlines
+- 5 weeks building your own projects
 - Showcase
 
 ---
