@@ -143,14 +143,14 @@ _paginate: false
 ---
 # How the course will work
 - We'll be using a "flipped" format.
-- Instead of lectures, you'll have videos that you can pause, speed up, skip back, search, and reference whenever you want.
-- During our meetings, we'll do activities together to practice and reinforce what you learned from the videos and readings.
+- Instead of lectures, you'll have lessons with videos that you can pause, speed up, skip back, search, and reference whenever you want.
+- During our meetings, we'll do activities together to practice and reinforce what you learned from the lessons, videos and readings.
 
 ---
 # Schedule
 - **Check-in**: 9
 - **Stand-ups**: 9:15 (with your stand-up group)
-- **Meetings**: M/T/W/R at 1
+- **Technical Meetings**: M/T/W/R at 1
 - **Data Structure and Algorithms**: Fridays at 2
 - **Lab**: all the remaining time
     - (with the exception of other seminars and guest lectures).
@@ -166,7 +166,7 @@ _paginate: false
 ---
 
 # Getting started
-- You should start your first modules, eg **Onboarding**
+- You should start your first lessons, eg **Onboarding**
 - During lab time, the teaching assistants and instructors will be available for questions.
 - Please walk over and ask us lots of questions as you're working through the videos, readings, and projects.
                
