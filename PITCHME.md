@@ -182,7 +182,7 @@ _paginate: false
 ---
 # Course Outline (technical)
 - 7 weeks assignments with deadlines
-- 5 weeks building your own projects
+- 5 weeks building your own project
 - Showcase
 
 ---
