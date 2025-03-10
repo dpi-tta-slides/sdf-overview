@@ -1,7 +1,7 @@
 ---
 marp: true
 title: SDF - Overview
-description: This lesson provides an overview of the 12-week software development foundations course.
+description: This lesson provides an overview of the 24-week software development foundations course.
 transition: fade
 paginate: true
 _paginate: false
@@ -9,12 +9,12 @@ _paginate: false
 
 
 # Welcome 😁
-- Thank you embarking on this journey with us.
+- Thank you for embarking on this journey with us.
 
 ---
 
 # Let's get to know each other!
-- Please form groups of 3-4 with people sitting around you, and share:
+- Please form groups of 3-4 and share:
     - Your name.
     - Where you're from and which neighborhood you live in now.
     - Why did you sign up for this course?
@@ -30,7 +30,7 @@ _paginate: false
 - Speak up whenever you feel like it, or raise your hand.
 - If you're not sure whether it's relevant to everyone, wave over a TA and ask them; they'll decide and escalate.
 - Our rule: You're only allowed to get stuck for **15 minutes** before asking a question.
-- We'll be available in the classroom, calendly, Discord, and Ask.
+- We'll be available at 200 S Wacker, Calendly, and Discord.
 
 ---
 # Asking Questions
@@ -42,24 +42,22 @@ _paginate: false
 
 # Technical Team
 
-- Annie
+- Aldo
+- Benny
 - Chandhu
 - Ian
-- Jose
-- Calvin
+- Margo
 - Mary
-- Aldo
-
 
 ---
 # Timeline / Learning Journey
 ...previous education, experiences, and life
 - Meet Gary
-- Remote INTRO course (n-weeks)
+- INTRO (n-weeks)
 - Interview
-- In-person Software Development Foundations (SDF) (12-weeks) <-- **We are here!**
-- Pre-Job learning (n-weeks)
-    - Dig deep into a topic (React, data science, cloud etc.)
+- Software Development Foundations (SDF) (24-weeks) <-- **We are here!**
+- BRIDGE (n-weeks)
+    - Dig deep into a topic (Java, data science, cloud etc.)
 - On the job learning
     - DPI employer partners or land your own!
 
@@ -72,7 +70,7 @@ _paginate: false
 
 ---
 # Learning how to learn
-- Our real goal during these 12 weeks is not to learn Ruby, Rails, JavaScript, Bootstrap, or any other particular language or framework.
+- Our real goal during these 24 weeks is not to learn Ruby, Rails, JavaScript, Bootstrap, or any other particular language or framework.
 - These are good, beginner-friendly, motivating choices for an introductory course.
 - Our real goal is to **learn how to learn**, so that you can then go on to learn whatever interests you.
 
@@ -142,16 +140,15 @@ _paginate: false
 
 ---
 # How the course will work
-- We'll be using a "flipped" format.
-- Instead of lectures, you'll have lessons with videos that you can pause, speed up, skip back, search, and reference whenever you want.
-- During our meetings, we'll do activities together to practice and reinforce what you learned from the lessons, videos and readings.
+
+- Like INTRO, you'll have lessons with videos that you can pause, speed up, skip back, search, and reference whenever you want.
+- During our technical meetings, we'll do activities together to practice and reinforce what you learned from the lessons, videos and readings.
 
 ---
 # Schedule
-- **Check-in**: 9
-- **Stand-ups**: 9:15 (with your stand-up group)
-- **Technical Meetings**: M/T/W/R at 1
-- **Data Structure and Algorithms**: Fridays at 2
+- **Stand-ups**: 9:30 (Discord #stand-ups channel)
+- **Technical Meetings**: Monday + Wednesday at 1
+- **Data Structure and Algorithms**: Fridays at 1
 - **Lab**: all the remaining time
     - (with the exception of other seminars and guest lectures).
 <!-- There will be exceptions, but that's the general plan. -->
@@ -168,7 +165,7 @@ _paginate: false
 # Getting started
 - You should start your first lessons, eg **Onboarding**
 - During lab time, the teaching assistants and instructors will be available for questions.
-- Please walk over and ask us lots of questions as you're working through the videos, readings, and projects.
+- Please ask us lots of questions as you're working through the videos, readings, and projects.
                
 ---
 
@@ -181,8 +178,8 @@ _paginate: false
 
 ---
 # Course Outline (technical)
-- 7 weeks assignments with deadlines
-- 5 weeks building your own project
+- 14 weeks assignments with deadlines
+- 10 weeks building your own project
 - Showcase
 
 ---
