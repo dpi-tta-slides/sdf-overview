@@ -1,7 +1,7 @@
 # Overview
 This lesson provides an overview of the 12-week software development foundations course.
 
-[slides](https://dpi-we.github.io/slides-sdf-overview)
+[slides](https://dpi-tta-slides.github.io/sdf-overview)
 
 ## Higlights
 - Asking Questions
